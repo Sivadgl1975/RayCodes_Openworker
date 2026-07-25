@@ -1,0 +1,38 @@
+# Models & Weights
+*.bin
+*.gguf
+*.safetensors
+*.pt
+*.onnx
+Modelfile.local
+
+# Environments & Virtual Envs
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+
+# Node & Dependencies
+node_modules/
+dist/
+build/
+.next/
+.out/
+
+# Tauri & Rust
+target/
+src-tauri/target/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Local secrets & tokens
+*.token
+.env
+.env.local
