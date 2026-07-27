@@ -1,13 +1,3 @@
-<div align="center">
-  <a href="https://youtu.be/oCbddlpSOh8">
-    <img src="https://img.youtube.com/vi/oCbddlpSOh8/0.jpg" alt="Andrew Ng OpenWorker: $0 Setup For Automated Desktop Work">
-  </a>
-  <h3>📺 <a href="https://youtu.be/oCbddlpSOh8">Watch the full tutorial on YouTube</a></h3>
-</div>
-
-<br />
-
-<div align="center">
 
 # ⚙️ OpenWorker
 ### Sovereign Local AI Coworker for Desktop Task Automation & Multi-Tool Execution
